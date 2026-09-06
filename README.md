@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Z0l3
 - 👀 I’m interested in web development and cyber security and also bug bounty
-- 🌱 I’m currently learning c# console and GUI application
+- 🌱 I’m currently learning c# console and GUI application, and fullstack web development
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me here --> Github
 
